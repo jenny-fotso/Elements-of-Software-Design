@@ -1,5 +1,5 @@
 # Elements-of-Software-Design
-Assignments for the cs313e course.
+Projects for the cs313e course.
 
 "Learning Objectives:
 
